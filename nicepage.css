@@ -28639,7 +28639,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {width: 340px; margin: 17px 0}
 .u-header .u-logo-image-1 {max-width: 340px; max-height: 340px} }
  .u-footer {background-image: none}
-.u-footer .u-sheet-1 {min-height: 20px} 
+.u-footer .u-sheet-1 {min-height: 10px} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px} }
 @media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 57px} }
